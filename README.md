@@ -38,7 +38,3 @@ You can reach me via:
 4. Update the database credentials in the configuration files.
 5. Start Tomcat from **Eclipse** to run the project.
 
-## Screenshots
-
-![Homepage](./screenshots/homepage.png)  
-![Book Details](./screenshots/book_details.png)
